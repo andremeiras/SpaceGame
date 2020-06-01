@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desafio 01 (aula 05) - CRUD</title>
+
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <!-- PESQUISA -->
+    <h1>Cadastro de nomes</h1>
+    <form>
+      <label>
+        Nome:
+        <input
+          id="inputName"
+          type="text"
+          placeholder="Digite um nome para buscar"
+        />
+      </label>
+    </form>
+
+    <!-- LISTA DE CADASTRADOS -->
+    <h2>Nomes cadastrados até o momento:</h2>
+    <!--  Na div "names" serão inseridos os nomes dinamicamente através do Javascript -->
+    <div id="names"></div>
+
+    <!-- Javascript -->
+    <script src="./js/script.js"></script>
+  </body>
+</html>
