@@ -1,5 +1,6 @@
 # Cadastro de nomes (CRUD)
 
+![CRUD_App](./img/crud.gif)
 Esta aplicação foi puramente desenvolvida com a linguagem Javascript (sem uso de frameworks).
 
 Trata-se de um desafio guiado pelo professor Raphael Gomide no curso de _Desenvolvedor FullStack_ do Instituto de Gestão de Tecnologia da Informação (IGTI).
