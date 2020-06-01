@@ -1,19 +1,25 @@
 # Cadastro de nomes (CRUD)
 
-<h3>O que faz?</h3>
+## O que faz?
 
 ![CRUD_App](./img/crud.gif)
 
-A aplicação é bem simples, e faz nada mais, nada menos do que as operações básicas como:
+A aplicação é bem simples, e executa as operações CRUD básicas, são elas:
 
 <ul>
-    <li>Pesquisa</li>
     <li>Inserção</li>
     <li>Exclusão</li>
     <li>Edição</li>
+    <li>Pesquisa</li>
 </ul>
 
-<h3>Como foi desenvolvida? </h3>
+## Como foi desenvolvida?
+
 Esta aplicação foi puramente desenvolvida com a linguagem Javascript (sem uso de frameworks).
 
 Não foi utilizado um banco de dados. Os nomes apenas são armazenados em vetores (arrays) e mostrados em tela.
+
+
+## Por que?
+
+Trata-se de um desafio guiado pelo professor Raphael Gomide no curso de _Desenvolvedor FullStack_ do Instituto de Gestão de Tecnologia da Informação (IGTI).
