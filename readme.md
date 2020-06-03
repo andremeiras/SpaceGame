@@ -13,7 +13,7 @@ A aplicação é bem simples, e executa as operações de CRUD básicas, são el
 
 Abaixo um preview da aplicação sendo executada:
 
-![CRUD_App](./img/crud.gif)
+![CRUD_App](./img/crud2.gif)
 
 ## Como foi desenvolvida?
 
