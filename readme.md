@@ -1,10 +1,10 @@
-# Cadastro de nomes (CRUD)
+# Space Game (Cadastro de nomes - CRUD)
 
 ## O que faz?
 
-A aplicação é bem simples, e executa as operações de CRUD básicas, são elas:
+A aplicação é bem simples, e executa as operações básicas de um CRUD (<i><strong>C</strong>reate, <strong>R</strong>ead, <strong>U</strong>pdate and <strong>D</strong>elete</i>), são elas:
 
-<ul style="list-style-type:none">
+<ul style="list-style-type: none;">
     <li>:heavy_plus_sign: Inserção</li>
     <li>:x: Exclusão</li>
     <li>:pencil2: Edição</li>
