@@ -1,4 +1,4 @@
-let globalNames = ['Um', 'Dois', 'Três', 'Quatro']; // não é uma boa prática
+let globalNames = ['Player 1', 'Player 2']; // não é uma boa prática
 let inputName = null;
 let isEditing = false;
 let currentIndex = null;

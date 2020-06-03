@@ -1,10 +1,72 @@
+body {
+  font-family: 'Londrina Shadow', cursive;
+  background-color: rgb(29, 0, 61);
+  color: rgba(86, 197, 52, 0.774);
+}
+
+h1 {
+  font-size: 100px;
+  background-color: rgb(66, 55, 128);
+  width: 90%;
+  height: 120px;
+  text-align: center;
+  margin-right: 5%;
+  float: right;
+}
+
+h1,
+h2 {
+  margin-left: 5%;
+}
+
+h6 {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  font-size: 14px;
+  float: right;
+  margin-right: 6%;
+}
+
+label {
+  margin-left: 5%;
+  font-size: 40px;
+}
+
+hr {
+  color: rgba(86, 197, 52, 0.774);
+  margin-left: 5%;
+  margin-right: 10px;
+  width: 95%;
+}
+
 li {
+  font-size: 40px;
+  text-align: center;
   list-style-type: none;
-  height: 20px;
-  width: 80%;
-  background-color: lightpink;
-  margin-top: 1px;
+  height: 50px;
+  background-color: rgb(37, 0, 80);
+  color: rgba(86, 197, 52, 0.774);
+  margin-top: 5px;
+  width: 83%;
+  margin-left: 10px;
+  margin-right: 5%;
+  padding-top: 2px;
+  float: right;
+}
+
+#inputName {
+  font-family: 'Londrina Shadow', cursive;
+  font-size: 32px;
+  text-align: center;
+  color: rgba(86, 197, 52, 0.774);
+  background-color: rgb(37, 0, 80);
+  height: 50px;
   padding-left: 5px;
+  width: 80%;
+  margin-left: 10px;
+  margin-right: 5%;
+  margin-bottom: 20px;
+  float: right;
 }
 
 .clickable {
@@ -12,13 +74,13 @@ li {
 }
 
 .deleteButton {
-  width: 30px;
+  width: 60px;
+  height: 40px;
   color: white;
-  font-weight: bold;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 14px;
-  padding: 0px;
-  background-color: crimson;
+  font-size: 20px;
+  background-color: rgba(86, 197, 52, 0.774);
+  margin-top: 5px;
   margin-right: 10px;
   float: right;
 }

@@ -2,23 +2,24 @@
 
 ## O que faz?
 
-![CRUD_App](./img/crud.gif)
-
-A aplicação é bem simples, e executa as operações CRUD básicas, são elas:
+A aplicação é bem simples, e executa as operações de CRUD básicas, são elas:
 
 <ul>
-    <li>Inserção</li>
-    <li>Exclusão</li>
-    <li>Edição</li>
-    <li>Pesquisa</li>
+    <li>:heavy_plus_sign: Inserção</li>
+    <li>:x: Exclusão</li>
+    <li>:pencil2: Edição</li>
+    <li>:mag_right: Pesquisa</li>
 </ul>
+
+Abaixo um preview da aplicação sendo executada:
+
+![CRUD_App](./img/crud.gif)
 
 ## Como foi desenvolvida?
 
 Esta aplicação foi puramente desenvolvida com a linguagem Javascript (sem uso de frameworks).
 
 Não foi utilizado um banco de dados. Os nomes apenas são armazenados em vetores (arrays) e mostrados em tela.
-
 
 ## Por que?
 
